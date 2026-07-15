@@ -91,3 +91,9 @@ deck[ , ]
 字符型向量：status <- factor(status, order = TRUE,
                          levels = c("Poor", "Improved", "Excellent"))
 数值型向量：sex <- factor(sex, levels = c(1, 2), labels = c("Male", "Female"))
+
+
+
+
+【由泛型函数、方法 和 基于类的分派方式所构成的系统就是 R 的 S3 系统】
+【S3 系统使得 R 函数能够在不同的场合有不同的表现】
